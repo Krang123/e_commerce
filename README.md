@@ -1,0 +1,2 @@
+# microservice
+$ npm init
